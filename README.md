@@ -5,11 +5,17 @@
 __개발 환경: 아나콘다(jupyter notebook)__
 
 references:
+
 https://hunkim.github.io/ml/
+
 https://tensorflowkorea.gitbooks.io/tensorflow-kr/content/g3doc/api_docs/python/constant_op.html
+
 https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm
+
 Game environment: 
+
 https://gym.openai.com/
+
 http://solarisailab.com/archives/486
 
 1. 연구과정
