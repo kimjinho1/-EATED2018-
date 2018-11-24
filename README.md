@@ -40,7 +40,7 @@ http://solarisailab.com/archives/486
 
 #### 4. 결과
 
-1)Frozne Lake
+##### 1) Frozne Lake
 
 ![lake](https://user-images.githubusercontent.com/29765855/48729123-2a05f980-ec7a-11e8-9fa8-1bcbcac826a5.PNG)
 
@@ -50,13 +50,13 @@ http://solarisailab.com/archives/486
 
 Q를 보면 Q는 16개의 행으로 되어있고 한 행안에 4개의 숫자가 있는데, 16은 State의 개수, 4는 Action(Left, down, right, up)을 의미한다.
 
-2)CartPole
+##### 2) CartPole
 
 ![cartpole](https://user-images.githubusercontent.com/29765855/48966190-b6644380-f00f-11e8-8fc0-eef94ef23108.PNG)
 
 훈련 회수에 따라 잘 학습된 것을 볼 수 있다.
 
-3)CatchGame
+##### 3) CatchGame
 
 ![catch](https://user-images.githubusercontent.com/29765855/48729509-1c9d3f00-ec7b-11e8-9265-6e0841905b62.PNG)
 
