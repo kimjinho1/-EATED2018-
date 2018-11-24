@@ -4,7 +4,7 @@
 
 __개발 환경: 아나콘다(jupyter notebook)__
 
-references:
+#### references:
 
 https://hunkim.github.io/ml/
 
@@ -14,7 +14,7 @@ https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm
 
 http://ordo.tistory.com/68
 
-Game environment: 
+#### Game environment: 
 
 https://gym.openai.com/
 
@@ -45,7 +45,9 @@ http://solarisailab.com/archives/486
 ![lake](https://user-images.githubusercontent.com/29765855/48729123-2a05f980-ec7a-11e8-9fa8-1bcbcac826a5.PNG)
 
 그래프를 통해 훈련 50번 이후부터는 S에서 G까지 계속 무사히 도착했다는 것을 확인할 수 있다.
+
 오른쪽 그림은 모델의 정확도와, Q를 프린트 한 것이다. 
+
 Q를 보면 Q는 16개의 행으로 되어있고 한 행안에 4개의 숫자가 있는데, 16은 State의 개수, 4는 Action(Left, down, right, up)을 의미한다.
 
 2)CartPole
