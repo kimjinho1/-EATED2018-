@@ -48,13 +48,14 @@ http://solarisailab.com/archives/486
 
 오른쪽 그림은 모델의 정확도와, Q를 프린트 한 것이다. 
 
-Q를 보면 Q는 16개의 행으로 되어있고 한 행안에 4개의 숫자가 있는데, 16은 State의 개수, 4는 Action(Left, down, right, up)을 의미한다.
+Q를 보면 16개의 행으로 되어있고 한 행안에 4개의 숫자가 있는데, 16은 State의 개수, 4는 Action(Left, down, right, up)을 의미한다.
 
 ##### 2) CartPole
 
 ![cartpole](https://user-images.githubusercontent.com/29765855/48966190-b6644380-f00f-11e8-8fc0-eef94ef23108.PNG)
 
 훈련 회수에 따라 잘 학습된 것을 볼 수 있다.
+(너무 오래 서있는 상황이 나와 훈련이 끝나지 않는 경우가 생겨서 최대 개수를 10000개로 제한을 했습니다)
 
 ##### 3) CatchGame
 
