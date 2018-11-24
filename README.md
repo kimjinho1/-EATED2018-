@@ -12,6 +12,8 @@ https://tensorflowkorea.gitbooks.io/tensorflow-kr/content/g3doc/api_docs/python/
 
 https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm
 
+http://ordo.tistory.com/68
+
 Game environment: 
 
 https://gym.openai.com/
