@@ -24,6 +24,10 @@ http://solarisailab.com/archives/486
 
 ![default](https://user-images.githubusercontent.com/29765855/48728221-b4009300-ec77-11e8-8e33-925c77718522.PNG)
 
+방학 때 에디슨 프로그램을 하면서 딥러닝에 관심이 생겼고, 연구실 동료들과 파이썬을 공부했습니다.
+
+개강 후에는 연구주제를 강화 학습으로 정했고 강화 학습 알고리즘을 공부한 후, 마지막으로 실제로 게임에 적용해보았습니다.
+
 #### 2. DQN(Deep Q-Network)란?
 
 ![dqn](https://user-images.githubusercontent.com/29765855/48728606-badbd580-ec78-11e8-9758-feab716beaad.PNG)
