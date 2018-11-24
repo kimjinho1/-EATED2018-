@@ -50,7 +50,7 @@ Q를 보면 Q는 16개의 행으로 되어있고 한 행안에 4개의 숫자가
 
 2)CartPole
 
-![cartpole].(https://user-images.githubusercontent.com/29765855/48729405-dba52a80-ec7a-11e8-974a-df178cdc0426.PNG
+![cartpole](https://user-images.githubusercontent.com/29765855/48966190-b6644380-f00f-11e8-8fc0-eef94ef23108.PNG)
 
 훈련 회수에 따라 잘 학습된 것을 볼 수 있다.
 
