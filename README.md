@@ -52,7 +52,7 @@ http://solarisailab.com/archives/486
 
 오른쪽 그림은 모델의 정확도와, Q를 프린트 한 것이다. 
 
-Q를 보면 16개의 행으로 되어있고 한 행안에 4개의 숫자가 있는데, 16은 State의 개수, 4는 Action(Left, down, right, up)을 의미한다.
+Q를 보면 16개의 행으로 되어있고 한 행안에 4개의 숫자가 있는데, 16은 State, 4는 Action(Left, down, right, up)을 의미한다.
 
 ##### 2) CartPole
 
