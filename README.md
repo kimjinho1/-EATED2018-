@@ -37,6 +37,7 @@ http://solarisailab.com/archives/486
 2) CartPole: 막대기를 넘어뜨리지 않게 하는 게임
 
 3) CatchGame: 하늘에서 떨어지는 박스들을 잡는 게임
+<br />
 
 4. 결과
 
