@@ -20,15 +20,15 @@ https://gym.openai.com/
 
 http://solarisailab.com/archives/486
 
-###1. 연구과정
+#### 1. 연구과정
 
 ![default](https://user-images.githubusercontent.com/29765855/48728221-b4009300-ec77-11e8-8e33-925c77718522.PNG)
 
-###2. DQN(Deep Q-Network)란?
+#### 2. DQN(Deep Q-Network)란?
 
 ![dqn](https://user-images.githubusercontent.com/29765855/48728606-badbd580-ec78-11e8-9758-feab716beaad.PNG)
 
-###3. 적용한 게임들
+#### 3. 적용한 게임들
 
 ![default](https://user-images.githubusercontent.com/29765855/48728804-5b31fa00-ec79-11e8-9dc4-8cef8d938c14.PNG)
 
@@ -38,7 +38,7 @@ http://solarisailab.com/archives/486
 
   3) CatchGame: 하늘에서 떨어지는 박스들을 잡는 게임
 
-###4. 결과
+#### 4. 결과
 
   1)Frozne Lake
 
@@ -58,7 +58,7 @@ Q를 보면 Q는 16개의 행으로 되어있고 한 행안에 4개의 숫자가
 ![catch](https://user-images.githubusercontent.com/29765855/48729509-1c9d3f00-ec7b-11e8-9265-6e0841905b62.PNG)
 마찬가치로 학습이 잘 된 것을 볼 수 있다.
 
-###5. 향후 연구
+#### 5. 향후 연구
 
 모델을 더 효과적으로 학습시키기 위해서 심층 신경망(DNN) 뿐만 아니라 CNN과 RNN 등을 공부!
 
